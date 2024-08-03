@@ -21,4 +21,4 @@ Cumulative Revenue: Analyzed the cumulative revenue generated over time.
 Category-specific Insights: Determined the top 3 most ordered pizza types based on revenue for each pizza category.
 
 Tools and Technologies
-SQL: Utilized for querying the database, data manipulation, and extracting insights.
+MY SQL: Utilized for querying the database, data manipulation, and extracting insights.
